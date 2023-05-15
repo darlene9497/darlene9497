@@ -2,6 +2,7 @@
 👋🏾 Hey there fellow developer and tech enthusiast, my name is Darlene Nandabi. I am an alumni of Moringa School where i studied Software Engineering. I aspire to make it big in the tech industry, I am guessing that is why you are here 😉.
 
 **Fun fact**
+
 Candy Crush made me do it. Not because I wanted to create a clone of it, but because it is not just a game to me, it has really helped me look at the outcome of life differently. I guess saying I am currently on level 13,050 will make it make sense more.🤷‍♀️ If I'm not coding, I'm Sweet Bug Hunting (debugging) on Candy Crush. Fun, right?!
 
 ## 🔨 My Current Tech Stack
