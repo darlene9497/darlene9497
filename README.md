@@ -1,5 +1,5 @@
 # Welcome to my GitHub Repository! ♥
-👋🏾 Hey there fellow developer and tech enthusiast, my name is Darlene Nandabi. I am an alumni of Moringa School where i studied Software Engineering. I aspire to make it big in the tech industry, I am guessing that is why you are here 😉.
+👋🏾 Hey there fellow developer and tech enthusiast, my name is Darlene Nandabi. I am a student of Moringa School, studying Software Engineering. I aspire to make it big in the tech industry, I am guessing that is why you are here 😉.
 
 **Fun fact**
 
