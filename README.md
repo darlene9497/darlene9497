@@ -15,3 +15,6 @@ Candy Crush made me do it. Not because I wanted to create a clone of it, but bec
 
 ## 🌐 My Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nkedin.com/in/darlene-nandabi-a94010276/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/devNandabi) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/)
+
+## 📊 GitHub Stats:
+[![](https://github-readme-stats.vercel.app/api?username=darlene9497)](https://github.com/darlene9497/github-readme-stats)
