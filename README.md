@@ -17,6 +17,6 @@ Candy Crush made me do it. Not because I wanted to create a clone of it, but bec
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nkedin.com/in/darlene-nandabi-a94010276/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/devNandabi) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=darlene9497&theme=dark&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=darlene9497&theme=dark&count_private=true&show_icons=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=darlene9497&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=darlene9497&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=darlene9497&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
