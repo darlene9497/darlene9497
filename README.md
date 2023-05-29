@@ -16,3 +16,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=darlene9497&theme=dark&count_private=true&show_icons=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=darlene9497&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=darlene9497&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=darlene9497&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
