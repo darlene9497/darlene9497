@@ -1,8 +1,9 @@
-# Welcome to my GitHub Repository! ♥
+# Welcome to my GitHub! ♥
 
 ![Header](https://i.pinimg.com/564x/5e/d5/8c/5ed58cbf79e583bfbab7016077008e28.jpg)
 
 # Hi, I'm Darlene 👋
+An enthusiastic Front-End Developer with expertise in ReactJS
 
 ## 🛠 Technology Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
