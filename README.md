@@ -1,6 +1,6 @@
 # Welcome to my GitHub Repository! ♥
 
-![Header]([https://your-header-image-url.com](https://i.pinimg.com/564x/5e/d5/8c/5ed58cbf79e583bfbab7016077008e28.jpg))
+![Header](https://i.pinimg.com/564x/5e/d5/8c/5ed58cbf79e583bfbab7016077008e28.jpg)
 
 # Hi, I'm Darlene 👋
 
