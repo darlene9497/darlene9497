@@ -22,7 +22,6 @@ An enthusiastic Front-End Developer with expertise in ReactJS
 
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=darlene9497&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darlene9497&layout=compact&theme=radical)
 
 ## 📫 Contact Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/darlene-n)
